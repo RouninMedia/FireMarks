@@ -1,4 +1,4 @@
-# FireMarks
+# `FireMarks`
 
 ## *What's a `FireMark`?*
 You probably already know what a `FireMark` is: it's a `bookmarklet`.
