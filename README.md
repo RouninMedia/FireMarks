@@ -3,10 +3,10 @@
 ## *What's a `FireMark`?*
 You probably already know what a `FireMark` is: it's a `bookmarklet`.
 
-## *What does `FIRE` stand for?*
-Does everything have to be a slightly pretentious acronym? Very well, then. `FIRE` stands for...
+## *What does ***FIRE*** stand for?*
+Does everything have to be a slightly pretentious acronym? Very well, then. ***FIRE*** stands for...
 
-`**F**eature-**I**nitiating **R**esource **E**xtension`
+***F**eature-**I**nitiating **R**esource **E**xtension*
 
 ## *That's a lot of words to describe a user-added script*
 Yes, it is. So don't worry about the acronym. Just call it a `FireMark`. You stopped worrying about `Ajax` ages ago, right?
