@@ -11,7 +11,7 @@ Does everything have to be a slightly pretentious acronym? Very well, then. ***F
 
 ***F**eature-**I**nitiating **R**esource **E**xtension*
 
-## *That's a lot of words to describe a user-added script*
+## *That's a lot of words to describe a user-added script.*
 Yeah. It is. So don't worry about the acronym. Just call it a `FireMark`. You stopped worrying about `Ajax` ages ago, right?
 
 ## *It really is just a bookmarklet? Why do we need another name for bookmarklets?*
