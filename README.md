@@ -6,7 +6,7 @@ You likely already know what a `FireMark` is: it's a `bookmarklet`.
 ## *What sort of `bookmarklet`, though?*
 *Any* sort of bookmarklet. `FireMark` === `bookmarklet`.
 
-## *Hmm. Okay. What does ***FIRE*** *stand for, then?*
+## *Hmm. Okay. What does* ***FIRE*** *stand for, then?*
 Does everything have to be a slightly pretentious acronym? Very well, then. ***FIRE*** stands for...
 
 ***F**eature-**I**nitiating **R**esource **E**xtension*
