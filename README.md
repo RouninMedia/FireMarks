@@ -3,15 +3,18 @@
 ## *What's a `FireMark`?*
 You likely already know what a `FireMark` is: it's a `bookmarklet`.
 
-## *What does ***FIRE*** stand for?*
+## *What sort of `bookmarklet`, though?*
+*Any* sort of bookmarklet. `FireMark` === `bookmarklet`.
+
+## *Hmm. Okay. What does ***FIRE*** *stand for, then?*
 Does everything have to be a slightly pretentious acronym? Very well, then. ***FIRE*** stands for...
 
 ***F**eature-**I**nitiating **R**esource **E**xtension*
 
 ## *That's a lot of words to describe a user-added script*
-Yes, it is. So don't worry about the acronym. Just call it a `FireMark`. You stopped worrying about `Ajax` ages ago, right?
+Yeah. It is. So don't worry about the acronym. Just call it a `FireMark`. You stopped worrying about `Ajax` ages ago, right?
 
-## *Why do we need another name for bookmarklets?*
+## *It really is just a bookmarklet? Why do we need another name for bookmarklets?*
 We don't *need* another name for `bookmarklets`. It's not the end of the world to have one though. Not least because:
 
   i) *Bookmarklet* isn't even the first name they went by. According to Wikipedia...
