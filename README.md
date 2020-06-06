@@ -1,7 +1,7 @@
 # FireMarks
 
 ## *What's a `FireMark`?*
-You probably already know what a `FireMark` is: it's a `bookmarklet`.
+You likely already know what a `FireMark` is: it's a `bookmarklet`.
 
 ## *What does ***FIRE*** stand for?*
 Does everything have to be a slightly pretentious acronym? Very well, then. ***FIRE*** stands for...
