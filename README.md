@@ -1,7 +1,7 @@
 # FireMarks
 
 ## *What's a `FireMark`?*
-You likely already know what a `FireMark` is: it's a `bookmarklet`.
+A `FireMark` is nothing new. It's simply a `bookmarklet`.
 
 ## *What sort of `bookmarklet`, though?*
 *Any* sort of bookmarklet. `FireMark` === `bookmarklet`.
