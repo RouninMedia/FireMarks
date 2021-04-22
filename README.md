@@ -22,4 +22,19 @@ We don't *need* another name for `bookmarklets`. It's not the end of the world t
   ii) *Bookmarklet* feels a little bit wrong. Like it's describing something else. ... IIFE ...
   
   iii) *Bookmarklets* feel like they've fallen out of favour a little bit. The term itself seems quite old and outdated, something from the early 2000s. There's nothing wrong with applying an energetic new name to a feature which, arguably, still ought very much to be current and popular.
+  
+  ______
+
+## Further Links:
+
+ - https://web.archive.org/web/20190324002613/https://www.marklets.com/
+ - https://www.hongkiat.com/blog/100-useful-bookmarklets-for-better-productivity-ultimate-list/
+ - https://www.howtogeek.com/125846/the-most-useful-bookmarklets-to-enhance-your-browsing-experience/
+ - https://www.lifehack.org/articles/featured/20-useful-bookmarklets.html
+ - https://caiorss.github.io/bookmarklets
+ - https://pauljadam.com/bookmarklets/
+ - https://www.squarefree.com/bookmarklets/
+ - https://www.adamdurrant.co.uk/blog/bookmarklets
+ - https://cognitiveseo.com/blog/5714/69-amazing-seo-bookmarklets-to-supercharge-your-internet-marketing/
+ - https://www.orbitmedia.com/blog/content-marketing-bookmarklets/
 
