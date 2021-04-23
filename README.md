@@ -17,11 +17,11 @@ Yeah. It is. So don't worry about the acronym. Just call it a `FireMark`. You st
 ## *It really is just a bookmarklet? Why do we need another name for bookmarklets?*
 We don't *need* another name for `bookmarklets`. It's not the end of the world to have one though. Not least because:
 
-  i) *Bookmarklet* isn't even the first name they went by. According to Wikipedia...
+  i) *Bookmarklet* isn't even the first name they went by. According to Wikipedia... (favelet reference)
   
-  ii) *Bookmarklet* feels a little bit wrong. Like it's describing something else. ... IIFE ...
+  ii) *Bookmarklet* feels a little bit wrong. Like it's describing something else. ... IIFE ... (portmanteau: bookmark + applet)
   
-  iii) *Bookmarklets* feel like they've fallen out of favour a little bit. The term itself seems quite old and outdated, something from the early 2000s. There's nothing wrong with applying an energetic new name to a feature which, arguably, still ought very much to be current and popular.
+  iii) *Bookmarklets* feel like they've fallen out of favour a little bit. The term itself seems quite old and outdated, something from the early 2000s. There's nothing wrong with applying an energetic new name to a feature which, arguably, still ought very much to be current and popular. Appmark would work. But "app" is kind of overused in far too many contexts. So, since *favelet* originally borrowed from IE, I wondered about using Firemark. Firemark is intended to suggest a bookmark which is on fire. Not on fire because it's just been dropped into a wood-burning stove but on fire like a turbo engine is on fire.
   
   ______
 
